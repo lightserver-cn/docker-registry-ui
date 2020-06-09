@@ -16,8 +16,6 @@ http:
     Access-Control-Allow-Origin: ['*']
     Access-Control-Allow-Methods: ['*']
     Access-Control-Max-Age: [1728000]
-    Access-Control-Allow-Headers: ['Authorization']
-    Access-Control-Max-Age: [1728000]
     Access-Control-Allow-Credentials: [true]
     Access-Control-Expose-Headers: ['Docker-Content-Digest']
 # auth:
